@@ -1,7 +1,7 @@
 # My collection of ShiggyCord plugins 
 
 ## Note:
-> This is still **very much** under construction while i learn React Native.
+> This is still **very much** under construction while i learn React Native/TypeScript.
 
 
 ## Installation
