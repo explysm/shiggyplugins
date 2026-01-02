@@ -1,0 +1,14 @@
+{
+    "name": "Learning Plugin",
+    "description": "A plugin for learning how to make plugins.",
+    "authors": [
+        {
+            "name": "exposed:)",
+            "id": "752899252866515025"
+        }
+    ],
+    "main": "src/index.ts",
+    "vendetta": {
+        "icon": "ic_badge_staff"
+    }
+}
