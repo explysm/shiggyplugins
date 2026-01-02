@@ -1,7 +1,7 @@
 # My collection of ShiggyCord plugins 
----
+
 ## Note:
-> This is still ==very much== under construction while i learn React Native.
+> This is still **very much** under construction while i learn React Native.
 
 
 ## Installation
@@ -13,4 +13,4 @@ Install any one of my plugins by:
 3. Press the plus and insert the URL of the plugin you want to install
 
 Example:
-```https://explysm.github.io/plugins/<plugin_name>```
+```https://explysm.github.io/shiggyplugins/<plugin_name>```
